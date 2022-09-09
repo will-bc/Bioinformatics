@@ -1,2 +1,2 @@
-# bioinformatics
+# Bioinformatics
 Bioinformatic Chest
